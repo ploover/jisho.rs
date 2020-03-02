@@ -1,0 +1,9 @@
+[package]
+name = "jisho"
+version = "0.1.0"
+authors = ["Gintautas Kazlauskas <gintautaskazlauskas@protonmail.com>"]
+edition = "2018"
+
+[dependencies]
+serde_json = "1.0.48"
+ureq = "0.11.4"
