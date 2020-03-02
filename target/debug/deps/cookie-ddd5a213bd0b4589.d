@@ -1,0 +1,12 @@
+/opt/lampp/htdocs/rust/jisho.rs/target/debug/deps/cookie-ddd5a213bd0b4589.rmeta: /home/gintautas/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.12.0/src/lib.rs /home/gintautas/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.12.0/src/builder.rs /home/gintautas/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.12.0/src/parse.rs /home/gintautas/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.12.0/src/jar.rs /home/gintautas/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.12.0/src/delta.rs /home/gintautas/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.12.0/src/draft.rs
+
+/opt/lampp/htdocs/rust/jisho.rs/target/debug/deps/libcookie-ddd5a213bd0b4589.rlib: /home/gintautas/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.12.0/src/lib.rs /home/gintautas/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.12.0/src/builder.rs /home/gintautas/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.12.0/src/parse.rs /home/gintautas/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.12.0/src/jar.rs /home/gintautas/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.12.0/src/delta.rs /home/gintautas/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.12.0/src/draft.rs
+
+/opt/lampp/htdocs/rust/jisho.rs/target/debug/deps/cookie-ddd5a213bd0b4589.d: /home/gintautas/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.12.0/src/lib.rs /home/gintautas/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.12.0/src/builder.rs /home/gintautas/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.12.0/src/parse.rs /home/gintautas/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.12.0/src/jar.rs /home/gintautas/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.12.0/src/delta.rs /home/gintautas/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.12.0/src/draft.rs
+
+/home/gintautas/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.12.0/src/lib.rs:
+/home/gintautas/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.12.0/src/builder.rs:
+/home/gintautas/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.12.0/src/parse.rs:
+/home/gintautas/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.12.0/src/jar.rs:
+/home/gintautas/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.12.0/src/delta.rs:
+/home/gintautas/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.12.0/src/draft.rs:

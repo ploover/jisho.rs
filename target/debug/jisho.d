@@ -1,1 +1,1 @@
-/home/gintautas/Projects/Rust/jisho/target/debug/jisho: /home/gintautas/Projects/Rust/jisho/src/main.rs
+/opt/lampp/htdocs/rust/jisho.rs/target/debug/jisho: /opt/lampp/htdocs/rust/jisho.rs/src/main.rs
